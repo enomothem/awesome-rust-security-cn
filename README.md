@@ -3,6 +3,8 @@
     <p>与Rust和信息安全有关的比较好的项目和资源的策划列表</p>
 </div>
 <br/>
+ 
+- [English](https://github.com/enomothem/awesome-rust-security-cn/blob/master/README-EN.md)
 
 # 目录
 
@@ -27,7 +29,7 @@
 
 ## Web and Cloud Security
 
-### Pentesting
+### 渗透测试
 
 - [sn0int](https://github.com/kpcyrd/sn0int) - OSINT框架与包管理器
 - [sniffglue](https://github.com/kpcyrd/sniffglue) - 安全的多线程数据包嗅探器
@@ -36,10 +38,10 @@
 - [feroxbuster](https://github.com/epi052/feroxbuster) - 快速、简单、递归的目录发现工具
 - [rustbuster](https://github.com/phra/rustbuster) -Web模糊器和目录发现工具
 - [rustscan](https://github.com/RustScan/RustScan) - 现代端口扫描器
-- [kepler](https://github.com/Exein-io/kepler) - NIST-based CVE lookup store and API powered by Rust.
-- [phaser](https://github.com/skerkour/phaser) - Automated attack surface mapper and vulnerability scanner
-- [pdfrip](https://github.com/mufeedvh/pdfrip) - Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
-- [chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
+- [kepler](https://github.com/Exein-io/kepler) - 基于NIST的CVE查找存储和Rust支持的API
+- [phaser](https://github.com/skerkour/phaser) - 自动攻击面发现和漏洞扫描器
+- [pdfrip](https://github.com/mufeedvh/pdfrip) - 快速PDF密码破解实用程序配备常见的密码格式构建器和字典攻击。
+- [chromepass](https://github.com/darkarp/chromepass) - 破解Chrome保存的密码
 
 ### Authorization & Authentication Frameworks
 
@@ -99,7 +101,7 @@
 - [rewind](https://github.com/quarkslab/rewind) - Snapshot-based coverage-guided Windows kernel fuzzer
 - [hyperpom](https://github.com/impalabs/hyperpom) - AArch64 fuzzer based on the Apple Silicon hypervisor
 
-### Binary Analysis & Reversing
+### 二进制分析 & 逆向
 
 - [goblin](https://github.com/m4b/goblin) - binary parsing crate for Rust
 - [unicorn.rs](https://github.com/unicorn-rs/unicorn-rs) - Rust bindings to the Unicorn framework
