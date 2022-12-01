@@ -8,8 +8,8 @@
 
 # 目录
 
-- [Tools](#tools)
-    - [Web and Cloud Security](#web-and-cloud-security)
+- [工具](#tools)
+    - [Web与云安全](#web-and-cloud-security)
     - [Vulnerability Assessment](#vulnerability-assessment)
     - [Offensive Security and Red Teaming](#offensive-security-and-red-teaming)
     - [Malware and Threat Detection](#malware-and-threat-detection)
@@ -25,9 +25,9 @@
 <br/>
 <br/>
 
-# Tools
+# 工具
 
-## Web and Cloud Security
+## Web与云安全
 
 ### 渗透测试
 
