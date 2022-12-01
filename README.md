@@ -1,10 +1,10 @@
 <div align="center">
-    <h1>Awesome Rust Security</h1>
-    <p>Curated list of awesome projects and resources related to Rust and computer security</p>
+    <h1>卓越的Rust安全工具</h1>
+    <p>与Rust和信息安全有关的比较好的项目和资源的策划列表</p>
 </div>
 <br/>
 
-# Table of Contents
+# 目录
 
 - [Tools](#tools)
     - [Web and Cloud Security](#web-and-cloud-security)
@@ -29,13 +29,13 @@
 
 ### Pentesting
 
-- [sn0int](https://github.com/kpcyrd/sn0int) - OSINT framework and package manager
-- [sniffglue](https://github.com/kpcyrd/sniffglue) - secure multithreaded packet sniffer
-- [badtouch](https://github.com/kpcyrd/badtouch) - scriptable network authentication cracker
-- [rshijack](https://github.com/kpcyrd/rshijack) - TCP connection hijacker
-- [feroxbuster](https://github.com/epi052/feroxbuster) - fast, simple and recursive content discovery tool
-- [rustbuster](https://github.com/phra/rustbuster) - web fuzzer and content discovery tool
-- [rustscan](https://github.com/RustScan/RustScan) - The Modern Port Scanner
+- [sn0int](https://github.com/kpcyrd/sn0int) - OSINT框架与包管理器
+- [sniffglue](https://github.com/kpcyrd/sniffglue) - 安全的多线程数据包嗅探器
+- [badtouch](https://github.com/kpcyrd/badtouch) - 可脚本化的网络身份验证破解程序
+- [rshijack](https://github.com/kpcyrd/rshijack) - TCP连接劫持器
+- [feroxbuster](https://github.com/epi052/feroxbuster) - 快速、简单、递归的目录发现工具
+- [rustbuster](https://github.com/phra/rustbuster) -Web模糊器和目录发现工具
+- [rustscan](https://github.com/RustScan/RustScan) - 现代端口扫描器
 - [kepler](https://github.com/Exein-io/kepler) - NIST-based CVE lookup store and API powered by Rust.
 - [phaser](https://github.com/skerkour/phaser) - Automated attack surface mapper and vulnerability scanner
 - [pdfrip](https://github.com/mufeedvh/pdfrip) - Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
